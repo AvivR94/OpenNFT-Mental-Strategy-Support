@@ -1,4 +1,4 @@
-# OpenNFT Mental Strategy Support
+# OpenNFT Mental Strategies Support
 
 Seminar in Psychology, Tel Aviv University, 2023
 
