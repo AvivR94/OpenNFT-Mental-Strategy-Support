@@ -7,7 +7,8 @@ Conducted under the supervision of Prof. Talma Hendler, M.D. Ph.D., Guy Gurevich
 Updated files of OpenNFT application with support of using mental strategies file (in a .txt format) 
 to show the subject options for choosing a strategy during a run. 
 
-The subject chooses a strategy using a designated keyboard, and the choice is recorded into a file within the NF_DATA_{run_num} directory.
+The subject chooses a strategy using a designated keyboard, and the choice is recorded into a file within the NF_DATA_{run_num} directory,
+with the time (in seconds, baseline is the start of the run) the key was pressed.
 
 An example for a mental strategies file: (Insturctions: no need to number the strategies, insert up to 4 lines)
 
