@@ -37,7 +37,6 @@ while ischar(line)
 end
 fclose(fid);
 buttons_pressed_file = strcat(P.WorkFolder,['/NF_Data_',num2str(P.NFRunNr),'/buttons_pressed_file_', num2str(P.NFRunNr), '.txt']);
-%fwid = fopen(buttons_pressed_file, 'w');
 
 switch feedbackType
     %% Continuous PSC
