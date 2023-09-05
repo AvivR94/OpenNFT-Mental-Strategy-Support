@@ -1,4 +1,6 @@
-# Seminar in Psychology, Tel Aviv University, 2023
+# OpenNFT Mental Strategy Support
+
+Seminar in Psychology, Tel Aviv University, 2023
 
 Authors: Sharon Tirza, Aviv Rabi
 
